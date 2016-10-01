@@ -1,0 +1,170 @@
+{
+	"developer": {
+		"users": ["zdGVzdGluZzA=0","zVmVyZ2Fub20=0","zdGVzdGluZzAw0"],
+		"date": "2016/01/29",
+		"days": "0",
+		"v": 32,
+		"state": true
+	},
+	"mensual": {
+		"users": ["zUHl0aG9uZXJv0"],
+		"date": "2016/01/29",
+		"days": "30",
+		"v": 32,
+		"state": true
+	},
+	"venta_sala": {
+		"users": ["zVElMU0E=0","zVG90b3JvIQ==0","zQmF0dXU=0","zVG9ycXVlTW9ua2V50","zTWFkZG9n0"],
+		"date": "2016/03/29",
+		"days": "0",
+		"v": 55,
+		"state": true
+	},
+	"Luis Alberth Marquez Villacorta": {
+		"users": ["zWmlwcG9aZW4gQmxpbg==0","zWmlzY290aWNv0","zRWx2ZXJnYWxhcmdhMw==0","zS2Fzc2V5IEthemVt0","zTGFudGVuemVua28=0","zUmFubnplZXQ=0"],
+		"date": "2016/04/11",
+		"days": "0",
+		"v": 55,
+		"state": true
+	},
+	"emilio": {
+		"users": ["zbGxsIEFkcmkgMQ==0","zbGxsIEFkcmkgMg==0","zbGxsIEFkcmkgMw==0"],
+		"date": "2016/04/12",
+		"days": "0",
+		"v": 55,
+		"state": true
+	},
+	"ganker": {
+		"users": ["zWFRBWHlTcw==0","zTWFEQXJBdVVDSEloYQ==0","zTHVGRnl5eQ==0","zUkc0THhE0","zS2FpRE9vTw==0"],
+		"date": "2016/04/12",
+		"days": "0",
+		"v": 55,
+		"state": true
+	},
+	"oscar": {
+		"users": ["zVGhlUG9saWNl0","zU2luU2VudGlpbWllbnRv0"],
+		"date": "2016/04/19",
+		"days": "0",
+		"v": 58,
+		"state": true
+	},
+	"Robert Collave": {
+		"users": ["zVmFuZ2lvbmkwNA==0","zVmlsY2hlenp60"],
+		"date": "2016/04/20",
+		"days": "0",
+		"v": 58,
+		"state": true
+	},
+	"Luis Vilchezsuere": {
+		"users": ["zWkVUQUNB0","zV09SRERFWQ==0","zUE9SUVVFWU8=0","zUVVFQ0hBTUlSQVM=0","zVk9MT1RVU0FMQQ==0","zUE9SUVVFVFU=0","zVk9MT01VQUpBSkE=0"],
+		"date": "2016/04/19",
+		"days": "0",
+		"v": 61,
+		"state": true
+	},
+	"CRISTHIAN NJ": {
+		"users": ["zY2h1a2kxOTk00","zY2h1a2kxOTkw0"],
+		"date": "2016/04/28",
+		"days": "0",
+		"v": 58,
+		"state": true
+	},
+	"Alex Lozano": {
+		"users": ["zRFJWa08=0","zRFJWS1Y=0"],
+		"date": "2016/04/29",
+		"days": "0",
+		"v": 58,
+		"state": true
+	},
+	"Jesuxito Huacho": {
+		"users": ["zeHh0ZWNhZ2Vwenhk0","zeHZvbGFzdGVzYWhvcmF40","zfldhclJpT3JKZTNYdVN+0","zcXh1eGFtaXJhc3NhcG8=0"],
+		"date": "2016/04/29",
+		"days": "0",
+		"v": 58,
+		"state": true
+	},
+	"Ali Farias": {
+		"users": ["z0","z0"],
+		"date": "2016/04/29",
+		"days": "0",
+		"v": 58,
+		"state": true
+	},
+	"Alex Andre Rivas": {
+		"users": ["zWHhTaGlwcHVkZW44eFg=0","zWHhTaGlwcHVkZW4xeFg=0"],
+		"date": "2016/04/30",
+		"days": "0",
+		"v": 58,
+		"state": true
+	},
+	"SoloSe QueNada Se": {
+		"users": ["zRE9UQTE=0","zRE9UQTM=0"],
+		"date": "2016/05/03",
+		"days": "0",
+		"v": 58,
+		"state": true
+	},
+	"Cruzito Roman": {
+		"users": ["zVHVv0","zU3Vv0"],
+		"date": "2016/05/04",
+		"days": "0",
+		"v": 58,
+		"state": true
+	},
+	"Diogenes Bravo": {
+		"users": ["zKn4qTG9LYVNvKn4q0","zKn4qR01hc2gqfio=0"],
+		"date": "2016/05/13",
+		"days": "0",
+		"v": 61,
+		"state": true
+	},
+	"Shinta Battousai": {
+		"users": ["zU2VpeXVybyBIaWtv0","zU3JTaGlzaGlv0"],
+		"date": "2016/05/16",
+		"days": "0",
+		"v": 61,
+		"state": true
+	},
+	"Roberto Arias": {
+		"users": ["zTUFSVEhFWA==0","zQXJpYXM00"],
+		"date": "2016/05/16",
+		"days": "0",
+		"v": 61,
+		"state": true
+	},
+	"Hernan Flores": {
+		"users": ["zWkFSQUk=0"],
+		"date": "2016/05/17",
+		"days": "0",
+		"v": 61,
+		"state": true
+	},
+	"Heydson Medina": {
+		"users": ["zRXJpa2EgTnXxZXox0","zSGV5ZHNvbiBNZWRpbmE=0"],
+		"date": "2016/05/20",
+		"days": "0",
+		"v": 61,
+		"state": true
+	},
+	"Frank Muro": {
+		"users": ["zS2F0dXdpcmE=0","zQ2hpY2xheW8q0"],
+		"date": "2016/05/31",
+		"days": "0",
+		"v": 61,
+		"state": true
+	},
+	"El Intrankilo Jose": {
+		"users": ["zTWFsZGl0b3NyYXRhczM=0","zbm9hbGJhbmVka3Rtcnhk0"],
+		"date": "2016/06/06",
+		"days": "0",
+		"v": 61,
+		"state": true
+	},
+	"": {
+		"users": [],
+		"date": "2016/05/16",
+		"days": "0",
+		"v": 61,
+		"state": true
+	}
+}
